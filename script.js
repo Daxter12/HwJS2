@@ -23,7 +23,7 @@ class GoodsList {
     this.goods = [
       { title: 'Shirt', price: 150 },
       { title: 'Socks', price: 60 },
-      { title: 'Jacket', price: 350 },
+      { title: 'Jacket', price: 360 },
       { title: 'Shoes', price: 250 },
     ]
   }
